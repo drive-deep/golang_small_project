@@ -1,0 +1,18 @@
+[{
+                "zones": "secure_pci_chandler_10.188.0.0",
+                "indexTimeEpoch": "1599022223337",
+                "rfc3339time":"2020-09-02T10:20:23+05:30",
+                "top_reasons": "User has logged onto an abnormal number of assets compared to their peer group, ",
+                "RawLogFilePath": "s3://expedia-ers-security-findings/exabeam/2019-06-22/exabeam-findings-17bf9eda-c11f-47c9-8286-d8108367f9e8.1561236070.WRT.gz",
+                "filename": "exabeam-findings-17bf9eda-c11f-47c9-8286-d8108367f9e8.1561236070.WRT.gz",
+                "iparr":["california", "europe"]
+},
+{
+                "zones": "secure_pci_chandler_10.189.0.0",
+                "indexTimeEpoch": "1599022202107",
+                "rfc3339time":"2020-09-02T10:20:02+05:30",
+                "top_reasons": "Abnormal communication from this network zone for the user",
+                "RawLogFilePath": "s3://expedia-ers-security-findings/exabeam/2019-06-22/exabeam-findings-17bf9eda-c11f-47c9-8286-d8108367f9e8.1561236071.WRT.gz",
+                "filename":"exabeam-findings-17bf9eda-c11f-47c9-8286-d8108367f9e8.1561236071.WRT.gz",
+                "iparr":["california", "australia"]
+}]
